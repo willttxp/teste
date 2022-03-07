@@ -1,0 +1,37 @@
+body{
+    background-color: green;
+}
+.navbar{
+    background-color: rgb(205, 226, 13);
+  height: 60px;
+    }
+.TXT{
+    font-size: large;
+    color: rgb(235, 19, 19);
+}
+.nav-link{
+    color: yellow;
+    align-items: right;
+}
+   .bio{
+       width: 70px; ;
+       height: 50px;
+ }
+ img{
+      width: 700%;
+      height: 600px;
+}
+.cartao{
+    width:400px;
+    border-color: yellowgreen;
+    border-style: double;
+   
+}
+.card-txt{
+    align-items: center;
+    text-align: justify;
+    
+}
+.principal{
+    width: 354px;
+}
